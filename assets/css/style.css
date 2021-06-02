@@ -1,0 +1,193 @@
+/* ----------------------------- General */
+
+body {
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    font-weight: 350;
+    font-stretch: condensed;
+    /* letter-spacing: normal; */
+}
+
+.wide{
+    width: 100%;
+}
+
+.thick{
+    font-weight: 700;
+}
+
+.super-thick{
+    font-weight: 900;
+}
+
+.link{
+    text-decoration: none;
+    color: #1a96c8; 
+    font-weight:600;
+}
+
+/* ------------------------------------- header  */
+.no-padding-left{
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.not-high{
+    height: 16rem;
+}
+
+.header-image{
+    background: url('/images/header-image.jpg') center center no-repeat;
+    background-size: cover ;
+}
+
+.header-cover{
+    /* width: 100%; */
+    height: 100%;
+    /* background-color: black;
+    opacity: 0.4; */
+}
+
+.case-header-text{
+    width: 70%;
+    color: white;
+    padding-top: 5rem;
+}
+
+/* ------------------------------------ main section */
+.shadow{
+    box-shadow: 15px 12px#e6e6e6;
+}
+
+.location-btn{
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+
+.customer-cards{
+    width: 100%;
+    height: 100%;
+}
+
+.studio-44{
+    display: block;
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+    /* max-height: 60%; */
+    margin-top: 2rem;
+    }
+
+.pro-website-guide{
+    display: block;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+}
+
+.avid-panda{
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: auto; */
+}
+
+.outdoor-ceremonies{
+    width: 60%;
+}
+
+.evans-creative{
+    width: 28%;
+}
+
+.worcester{
+    width: 30%;
+    margin-top: 2rem;
+}
+
+.first-customer-card-header{
+    background-color: #546e7a;
+    height: 7rem;
+}
+
+.second-customer-card-header{
+    background-color: #132080;
+    height: 7rem;
+}
+
+.third-customer-card-header{
+    background-color: #9024b4;
+    height: 7rem;
+}
+
+.forth-customer-card-header{
+    background-color: #639782;
+    height: 7rem;
+}
+
+.fifth-customer-card-header{
+    background-color: #144773;
+    height: 7rem;
+}
+
+.sixth-customer-card-header{
+    height: 7rem;
+    background-color: #123e4b;
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.card-btn{
+    background-color: #4eb246;
+    color: white;
+}
+
+/* ---------------------------------section sugestions */
+/* -----------large */
+#sugestions{
+    min-height: 20rem;
+    background-color: #f6f6f6;
+}
+
+#recommend{
+    width: 60%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 0;
+    border-radius: 15px;
+}
+
+#left-or-top{
+    width: 60%;
+    margin-top: 15%;
+    margin-left: 25%;
+    margin-right: 0;
+}
+
+/* -----------------small */
+#small-sugestions{
+    background-color: #f6f6f6;
+}
+
+#small-recommend {
+    width: 100%;
+    text-align: center;
+    border-radius: 15px;
+}
+
+/* ------------------------------------- footer */
+#footer{
+    min-height: 25rem;
+    background-color: #ffffff;
+}
+
+#smiley{
+    width: 10%;
+    margin-top: 10%;
+}
